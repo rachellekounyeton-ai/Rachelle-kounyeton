@@ -1,4 +1,5 @@
-// /
+import { Link } from "react-router-dom";
+
 function Hero(){
   return (
 <>
@@ -23,12 +24,12 @@ function Hero(){
                 </p>
 
                 <div className="flex items-center gap-3">
-                    <a href="/about" className="bg-white text-black text-xs font-medium px-6 py-3 rounded-full hover:bg-gray-200 transition-all">
+                    <Link href="/about" className="bg-white text-black text-xs font-medium px-6 py-3 rounded-full hover:bg-gray-200 transition-all">
                         Me decouvrir
-                    </a>
-                    <a href="/contact" className="bg-[#121214] text-gray-400 text-xs font-medium px-6 py-3 rounded-full border border-white/10 hover:text-white hover:border-white/20 transition-all">
+                    </Link>
+                    <Link href="/contact" className="bg-[#121214] text-gray-400 text-xs font-medium px-6 py-3 rounded-full border border-white/10 hover:text-white hover:border-white/20 transition-all">
                         Me contacter
-                    </a>
+                    </Link>
                 </div>
             </main>
 
