@@ -24,10 +24,10 @@ function Hero(){
                 </p>
 
                 <div className="flex items-center gap-3">
-                    <Link href="/about" className="bg-white text-black text-xs font-medium px-6 py-3 rounded-full hover:bg-gray-200 transition-all">
+                    <Link to="/about" className="bg-white text-black text-xs font-medium px-6 py-3 rounded-full hover:bg-gray-200 transition-all">
                         Me decouvrir
                     </Link>
-                    <Link href="/contact" className="bg-[#121214] text-gray-400 text-xs font-medium px-6 py-3 rounded-full border border-white/10 hover:text-white hover:border-white/20 transition-all">
+                    <Link to="/contact" className="bg-[#121214] text-gray-400 text-xs font-medium px-6 py-3 rounded-full border border-white/10 hover:text-white hover:border-white/20 transition-all">
                         Me contacter
                     </Link>
                 </div>
