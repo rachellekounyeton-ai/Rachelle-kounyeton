@@ -3,9 +3,9 @@ import Footer from "./Footer";
 
 const Layout = ({ children }) => {
    return(
-      <div className="min-h-screen">
+      <div className="site-layout">
           <Header />
-          <main>
+          <main className="site-main">
             {children}
           </main>
            <Footer />
