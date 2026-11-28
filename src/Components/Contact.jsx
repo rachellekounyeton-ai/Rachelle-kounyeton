@@ -86,10 +86,10 @@ function Contact() {
             <div className="contact-card">
               <h3 className="card-title">Retrouvez-moi sur les réseaux</h3>
               <div className="social-links">
-                <a href="cchttps://www.facebook.com/people/Rachelle-Kounyeton/61558648110463/" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Facebook">
+                <a href="https://www.facebook.com/profile.php?id=61558648110463" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Facebook">
                   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 8h3V4h-3c-3.1 0-5 1.9-5 5v2H6v4h3v5h4v-5h3l1-4h-4V9c0-.7.3-1 1-1Z" fill="currentColor" /></svg>
                 </a>
-                <a href="https://www.instagram.com/rachelle.kounyeton/" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Instagram">
+                <a href="https://www.instagram.com/rachellekounyeton?lqvp=MXB3YW5nNjYzcmFmbg==" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Instagram">
                   <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="5" fill="none" stroke="currentColor" strokeWidth="1.8" /><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" strokeWidth="1.8" /><circle cx="17.7" cy="6.7" r="1.1" fill="currentColor" /></svg>
                 </a>
                 <a href="https://www.linkedin.com/in/rachelle-kounyeton-bbbb693a4?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="LinkedIn">

@@ -11,8 +11,8 @@ function Footer() {
           <Link to="/contact" className="footer-link">Contact</Link>
         </nav>
         <div className="footer-socials">
-          <a href="https://www.facebook.com/people/Rachelle-Kounyeton/61558648110463" target="_blank" rel="noopener noreferrer" className="footer-link">Facebook</a>
-          <a href="https://www.instagram.com/rachelle.kounyeton" target="_blank" rel="noopener noreferrer" className="footer-link">Instagram</a>
+          <a href="https://www.facebook.com/profile.php?id=61558648110463" target="_blank" rel="noopener noreferrer" className="footer-link">Facebook</a>
+          <a href="https://www.instagram.com/rachellekounyeton?lqvp=MXB3YW5nNjYzcmFmbg==" target="_blank" rel="noopener noreferrer" className="footer-link">Instagram</a>
           <a href="https://www.linkedin.com/in/rachelle-kounyeton-bbbb693a4?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer" className="footer-link">LinkedIn</a>
         </div>
         <p className="footer-copy">&copy; 2026 Rachelle KOUNYETON.</p>
